@@ -39,9 +39,6 @@ void findMaxActivities(int n, int s[], int f[])
 int main()
 {
     int n;
-    printf("Mayank Negi\n");
-    printf("RollNo - R2142230039\n");
-    printf("Batch - 2\n");
     printf("Enter the number of activities: ");
     scanf("%d", &n);
     int s[n], f[n];
